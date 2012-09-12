@@ -1,1 +1,2 @@
 http://dhruvasagar.com/2012/08/24/vim-in-my-muscle-memory
+http://souptonuts.sourceforge.net/postfix_tutorial.html // for setting up command line gmail
