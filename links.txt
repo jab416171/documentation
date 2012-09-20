@@ -2,3 +2,4 @@ http://dhruvasagar.com/2012/08/24/vim-in-my-muscle-memory
 http://souptonuts.sourceforge.net/postfix_tutorial.html // for setting up command line gmail
 https://docs.google.com/document/d/1DzjvNgiF8OMUD0L6LdvOkvDcc6wYIk1iPFCkoW2pPf4/edit // ubuntu setup doc
 http://www.gaggl.com/2012/04/installing-java6-jdk-on-ubuntu-12-04/
+http://wiki.compiz.org/CCSM // ubuntu compiz tweaks
