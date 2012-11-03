@@ -3,3 +3,6 @@ http://souptonuts.sourceforge.net/postfix_tutorial.html // for setting up comman
 https://docs.google.com/document/d/1DzjvNgiF8OMUD0L6LdvOkvDcc6wYIk1iPFCkoW2pPf4/edit // ubuntu setup doc
 http://www.gaggl.com/2012/04/installing-java6-jdk-on-ubuntu-12-04/
 http://wiki.compiz.org/CCSM // ubuntu compiz tweaks
+https://github.com/MarcWeber/vim-addon-manager/blob/master/autoload/sample_vimrc_for_new_users.vim
+http://vim.wikia.com/wiki/Example_vimrc
+https://github.com/spf13/spf13-vim/blob/3.0/.vimrc
